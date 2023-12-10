@@ -1,0 +1,47 @@
+.inputContainerStyle
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.inputStyle
+{
+    margin: 10px;
+    padding: 10px;
+    border: solid black 3px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.buttonContainerStyle
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.buttonStyle
+{
+    margin: 5px;
+    padding: 10px;
+    border: solid black 2px;
+    background: transparent;
+    border-radius: 5px;
+
+}
+
+.listContainerStyle
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+.listStyle
+{
+    border: solid black 2px;
+    padding: 10px;
+    width: 70%;
+}
